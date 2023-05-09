@@ -19,7 +19,9 @@ public class App
         // String password = "a1aaAa";
         // System.out.println(passwordComplexity(password));
 
-        DoubleOrNothingGame.doubleOrNothing();
+        // DoubleOrNothingGame.doubleOrNothing();
+
+        CalculateWaterBill.calculateWaterBill();
         
         
         
